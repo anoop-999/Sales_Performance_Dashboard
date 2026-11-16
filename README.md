@@ -21,15 +21,15 @@ This project demonstrates data cleaning, data analysis, DAX calculations, and bu
 - City-wise Revenue
 - Payment Method Analysis
 - Category-wise Revenue
-
-![Sales Overview](Screenshots/Sales_Overview.png)
+  
+![Sales Overview](Sales_Overview.png)
 
 ### 2. Customer Behaviour Analysis
 - Customer Segmentation
 - Repeat vs One-time Customers
 - Revenue by Customer Segment
 
-![Customer Behaviour Analysis](Screenshots/Customer_Behaviour_Analysis.png)
+![Customer Behaviour Analysis](Customer_Behaviour_Analysis.png)
 
 ### 3. Key Insights & Recommendations
 - Revenue Performance
@@ -39,7 +39,7 @@ This project demonstrates data cleaning, data analysis, DAX calculations, and bu
 - Customer Behaviour
 - Business Recommendations
 
-![Key Insights and Recommendations](Screenshots/Key_Insights_Recommendations.png)
+![Key Insights and Recommendations](Key_Insights_Recommendations.png)
 
 ## Data Cleaning & Preparation
 - Started with 120 records.
