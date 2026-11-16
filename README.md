@@ -22,14 +22,14 @@ This project demonstrates data cleaning, data analysis, DAX calculations, and bu
 - Payment Method Analysis
 - Category-wise Revenue
   
-![Sales Overview](sales_Overview.png)
+![Sales Overview](sales_overview.png)
 
 ### 2. Customer Behaviour Analysis
 - Customer Segmentation
 - Repeat vs One-time Customers
 - Revenue by Customer Segment
 
-![Customer Behaviour Analysis](customer_Behaviour_Analysis.png)
+![Customer Behaviour Analysis](customer_behaviour_analysis.png)
 
 ### 3. Key Insights & Recommendations
 - Revenue Performance
